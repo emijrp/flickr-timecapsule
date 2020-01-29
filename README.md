@@ -10,7 +10,7 @@ Useful command to resize all pictures in a directory:
 
 find . -maxdepth 1 -iname "*.jpg" | xargs -L1 -I{} convert -define jpeg:extent=90kb "{}" "{}"
 
-(Be careful, it overwrites files)
+Be careful, it overwrites files.
 
 ## Example image
 

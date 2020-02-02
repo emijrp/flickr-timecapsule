@@ -1,6 +1,6 @@
 # flickr-timecapsule
 
-Some of my pictures on Flickr, resized to < 100 KB to fit GitHub Artic Code Vault filesize limit.
+Some of my pictures on Flickr, resized to < 100 KB to fit [GitHub Artic Code Vault](https://archiveprogram.github.com/) filesize limit.
 
 My pictures are CC-BY-SA licensed.
 
